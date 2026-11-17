@@ -1,41 +1,41 @@
 {
   "isSample": false,
-  "updatedAt": "2026-11-16T23:11:02.832Z",
+  "updatedAt": "2026-11-17T21:59:42.087Z",
   "quotes": [
     {
       "symbol": "AAPL",
-      "price": 352.78,
-      "change": -3.49,
-      "changePercent": -0.9796,
-      "tradingDay": "2026-11-16"
+      "price": 351.91,
+      "change": -0.87,
+      "changePercent": -0.2466,
+      "tradingDay": "2026-11-17"
     },
     {
       "symbol": "MSFT",
-      "price": 517.99,
-      "change": -5.89,
-      "changePercent": -1.1243,
-      "tradingDay": "2026-11-16"
+      "price": 506.24,
+      "change": -11.75,
+      "changePercent": -2.2684,
+      "tradingDay": "2026-11-17"
     },
     {
       "symbol": "GOOGL",
-      "price": 295.77,
-      "change": -2.93,
-      "changePercent": -0.9809,
-      "tradingDay": "2026-11-13"
+      "price": 280.2,
+      "change": -3.52,
+      "changePercent": -1.2407,
+      "tradingDay": "2026-11-17"
     },
     {
       "symbol": "AMZN",
-      "price": 257.75,
-      "change": -8.91,
-      "changePercent": -3.3413,
-      "tradingDay": "2026-11-16"
+      "price": 257.89,
+      "change": 0.14,
+      "changePercent": 0.0543,
+      "tradingDay": "2026-11-17"
     },
     {
       "symbol": "TSLA",
-      "price": 379.74,
-      "change": -10.48,
-      "changePercent": -2.6857,
-      "tradingDay": "2026-11-16"
+      "price": 380.11,
+      "change": 0.37,
+      "changePercent": 0.0974,
+      "tradingDay": "2026-11-17"
     }
   ]
 }
